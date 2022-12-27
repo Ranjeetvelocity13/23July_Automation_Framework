@@ -62,7 +62,7 @@ System.out.println("Hello");
 
 		driver.get(BaseURL);
 
-		Thread.sleep(3000);
+		Thread.sleep(6000);
 		
 	}
 
